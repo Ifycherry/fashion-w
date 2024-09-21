@@ -8,6 +8,9 @@ export default function Contact() {
       <Narbar/>
       <div>
         <img src="" alt="" />
+        <p>
+          God is good
+        </p>
       </div>
     </>
   )
